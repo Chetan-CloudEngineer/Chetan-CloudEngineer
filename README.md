@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Chetan! 👋
 
-<!--
-**Chetan-CloudEngineer/Chetan-CloudEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I’m a **Cloud Engineer** with a passion for designing, automating, and managing scalable cloud infrastructures. My goal is to combine innovation and technology to create efficient and secure solutions in the cloud space. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+- **Cloud Platforms:** AWS, Azure, GCP  
+- **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, Jenkins
+-  **Networking:** Routing, Switching, Firewalls, DNS, VPN, SD-WAN  
+- **Languages:** Python, Java, Bash, YAML  
+- **Version Control:** Git  
+- **Monitoring & Logging:** Prometheus, Grafana, CloudWatch  
+
+---
+
+## 🌟 My GitHub Stats  
+
+![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetan-CloudEngineer&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-CloudEngineer&layout=compact&theme=radical)
+
+---
+
+## 📈 Current Focus
+
+- Building robust cloud architectures  
+- Learning advanced Kubernetes and serverless technologies  
+- Improving automation and CI/CD pipelines  
+
+---
+
+## 📬 Let’s Connect
+
+- **LinkedIn:** [Chetan]([https://www.linkedin.com](https://www.linkedin.com/in/chetanamminabhavi/))  
+- **Email:** chetanamminabhavi5@gmail.com 
+- **Portfolio:** [My Website](https://www.your-portfolio-link.com)
+
+---
+
+## 💡 Fun Fact  
+
+When I'm not working with cloud tech, you can find me exploring new fitness routines, watching movies, or learning new skills. 🎥🏋️‍♂️  
