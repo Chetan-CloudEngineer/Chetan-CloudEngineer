@@ -34,7 +34,7 @@ I’m a **Cloud Engineer** with a passion for designing, automating, and managin
 
 ## 📬 Let’s Connect
 
-- **LinkedIn:** [Chetan]([https://www.linkedin.com](https://www.linkedin.com/in/chetanamminabhavi/))  
+- **LinkedIn:** [Chetan](https://www.linkedin.com](https://www.linkedin.com/in/chetanamminabhavi/))  
 - **Email:** chetanamminabhavi5@gmail.com 
 - **Portfolio:** [My Website](https://www.your-portfolio-link.com)
 
