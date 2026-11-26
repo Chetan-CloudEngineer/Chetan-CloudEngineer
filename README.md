@@ -2,7 +2,7 @@
 
 ### Network Engineer | Cisco | Meraki | Routing & Switching | SD-WAN | Network Automation
 
-I'm a **Network Engineer with 4 years of experience in L2/L3 network operations, troubleshooting, implementation, and infrastructure support**.
+I'm a **Network Engineer with 4.6 years of experience in L2/L3 network operations, troubleshooting, implementation, and infrastructure support**.
 
 Currently working as a **Technical Lead at Cognizant**, supporting enterprise network environments and retail infrastructure across **300+ U.S. retail stores**.
 
